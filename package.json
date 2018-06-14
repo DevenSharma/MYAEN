@@ -1,0 +1,25 @@
+{
+  "name": "basicsetup",
+  "version": "1.0.0",
+  "description": "basic setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "devDependencies": {
+    "standard": "*"
+  },
+  "keywords": [
+    "basicsetups"
+  ],
+  "author": "devendra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "html": "^1.0.0",
+    "http": "0.0.0",
+    "mysql": "^2.15.0",
+    "path": "^0.12.7"
+  }
+}
